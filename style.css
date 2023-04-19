@@ -1,0 +1,12 @@
+:root {
+    --dark: #111411;
+
+}
+.logo{
+    font-weight: bold;
+    color: var(--dark);
+}
+
+.table-responsive{
+    margin: 2rem;
+}
