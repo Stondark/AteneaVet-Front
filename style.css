@@ -10,3 +10,23 @@
 .table-responsive{
     margin: 2rem;
 }
+
+#description-table{
+    font-size: 0.8rem;
+}
+
+.btn{
+    margin-bottom: 1rem;
+}
+
+.swal2-select{
+    box-sizing: border-box !important;
+    width: auto !important;
+    transition: border-color .1s,box-shadow .1s !important;
+    border: 1px solid #d9d9d9 !important;
+    border-radius: 0.1875em !important;
+    background: rgba(0,0,0,0) !important;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.06), 0 0 0 3px rgba(0,0,0,0) !important;
+    color: inherit !important;
+    font-size: 1.125em !important;
+}
