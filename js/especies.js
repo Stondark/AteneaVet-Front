@@ -201,7 +201,6 @@ async function addAllEsp() {
     eliminarBtn.setAttribute('class', 'btn btn-danger btn-sm');
     eliminarBtn.addEventListener('click', async () => {
       await deleteEspecieAlert(especie.id_especie);
-      // await deleteEspecieById(especie.id_especie);
     });
     
     fila.insertCell().appendChild(eliminarBtn);
