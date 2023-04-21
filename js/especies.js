@@ -1,4 +1,4 @@
-const STRING_URL = "http://localhost:3001/api/1.0/";
+const STRING_URL = "https://ateneavet-back-production.up.railway.app/api/1.0/";
 
 const table = document.getElementById("table-especies");
 const caption_table = document.getElementById("description-table");
